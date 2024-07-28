@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-# Frontend Challenge
+# Frontend Challenge - New's articles Aggregator
 
 ### Prerequisites
 Before running the project, ensure you have the following prerequisites installed:
